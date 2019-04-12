@@ -5,7 +5,9 @@ void sub1() {
 		printf("*\n");
 }
 
-void sub2();
+void sub2(){
+	printf("Mission Clear!!!!"\n);
+}
 
 int main () {
 	sub1();
