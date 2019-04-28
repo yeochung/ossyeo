@@ -3,3 +3,5 @@ putty
 "hello world!"
 ----------------------
 "newly added line for new commit"
+---------------------------
+another newly added line for commit practice :)
