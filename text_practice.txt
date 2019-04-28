@@ -1,3 +1,5 @@
 newly edited file
 putty
 "hello world!"
+----------------------
+"newly added line for new commit"
