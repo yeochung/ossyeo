@@ -6,7 +6,7 @@ void sub1() {
 }
 
 void sub2(){
-	printf("Mission Clear!!!!"\n);
+	printf("Mission Clear!!!!\n");
 }
 
 int main () {
